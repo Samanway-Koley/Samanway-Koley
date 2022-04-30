@@ -1,6 +1,6 @@
 [![MasterHead](https://www.shootdartsolutions.com/img/service/web-design.gif)]()
 <h1 align="center">Hi 👋, I'm Samanway Koley</h1>
-<h3 align="center">A passionate Web designer from India</h3>
+<h3 align="center">A passionate Web Designer from India</h3>
 <img align="right" alt="design" width="400" src="https://www.sithcomputers.com/wp-content/uploads/2021/02/11th-and-12th-cs-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanway-koley&label=Profile%20views&color=0e75b6&style=flat" alt="samanway-koley" /> </p>
