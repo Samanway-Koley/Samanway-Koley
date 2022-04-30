@@ -23,4 +23,4 @@
 
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samanway-koley&" alt="samanway-koley" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanway-koley&" alt="samanway-koley" /></p>
