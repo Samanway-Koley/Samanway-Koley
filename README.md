@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=samanway-koley&show_icons=true&locale=en" alt="samanway-koley" /></p>
 
-<p>&numsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samanway-koley&" alt="samanway-koley" /></p>
+<p margin-top="30px"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samanway-koley&" alt="samanway-koley" /></p>
