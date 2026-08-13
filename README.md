@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/ROLE-FRONTEND%20DEVELOPER-047857?style=for-the-badge&labelColor=064E3B" alt="Frontend Developer" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=Samanway-Koley&label=PROFILE%20VIEWS&color=059669&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/Samanway-Koley?tab=followers">
+<!-- <a href="https://github.com/Samanway-Koley?tab=followers">
   <img src="https://img.shields.io/github/followers/Samanway-Koley?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=064E3B&color=10B981" alt="GitHub Followers" />
-</a>
+</a> -->
 
 <br/><br/>
 
