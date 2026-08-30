@@ -35,7 +35,7 @@
 [![EXPERTISE](https://img.shields.io/badge/EXPERTISE-9C27B0?style=for-the-badge&logoColor=white)](#expertise)
 [![STACK](https://img.shields.io/badge/STACK-FF5722?style=for-the-badge&logoColor=white)](#stack)
 [![WORKFLOW](https://img.shields.io/badge/WORKFLOW-FFB300?style=for-the-badge&logoColor=white)](#workflow)
-[![GITHUB](https://img.shields.io/badge/GITHUB-00BCD4?style=for-the-badge&logoColor=white)](#github)
+<!-- [![GITHUB](https://img.shields.io/badge/GITHUB-00BCD4?style=for-the-badge&logoColor=white)](#github) -->
 [![CONNECT](https://img.shields.io/badge/CONNECT-E91E63?style=for-the-badge&logoColor=white)](#connect)
 
 </div>
