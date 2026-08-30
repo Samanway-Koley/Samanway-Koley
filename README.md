@@ -263,13 +263,12 @@ Testing and refining interfaces for consistent behavior across modern browsers.
 
 ---
 
-<a id="github"></a>
+<!-- <a id="github"></a>
 
 ## ✦ GitHub Activity
 
 <div align="center">
 
-<!-- Contribution graph only -->
 <div style="background:#F0FDF4;border:3px solid #10B981;border-radius:18px;padding:16px;display:inline-block;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Samanway-Koley&theme=github_dark_green&hide_border=true&area=true&radius=16&bg_color=022C22&line=34D399&point=6EE7B7&area_color=10B981" />
@@ -282,7 +281,7 @@ Testing and refining interfaces for consistent behavior across modern browsers.
 
 <br/>
 
----
+--- -->
 
 <a id="connect"></a>
 
